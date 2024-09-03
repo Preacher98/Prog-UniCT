@@ -1,0 +1,18 @@
+Nome: fabrizioc
+Cognome: cipriano
+Password: caccaccucca
+Value: 0
+Cognome: depaola
+Nome Utente: deopul3
+Value: 1
+Nome Utente: Drakenorth
+Value: 0
+Nome: Federico
+Nome Utente: FedeARg33
+Password: siuuum22
+Nome Utente: Dragon34
+Password: stummoconlocchio
+Nome: suca
+Cognome: giovanni
+Password: sucuni
+Password: sucuni
