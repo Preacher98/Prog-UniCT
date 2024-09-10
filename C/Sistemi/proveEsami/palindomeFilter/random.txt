@@ -1,0 +1,705 @@
+[R]sono nel ciclo
+[R]semafori ok
+[R] anna
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = anna
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] otto
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = otto
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] radar
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = radar
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] aerea
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = aerea
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] ossesso
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = ossesso
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] anilina
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = anilina
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] oro
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = oro
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] ingegni
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = ingegni
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] ala
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = ala
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] arenera
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = arenera
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] ele
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = ele
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] non
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = non
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] onino
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = onino
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] redivider
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = redivider
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] aviva
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = aviva
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] aiuola
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] esse
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = esse
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] rotta
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] iota
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+
+[R]sono nel ciclo
+[R]semafori ok
+[R] ete
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = ete
+[R]sono nel ciclo
+[R]semafori ok
+[R] abba
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = abba
+[R]sono nel ciclo
+[R]semafori ok
+[R] rotator
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = rotator
+[R]sono nel ciclo
+[R]semafori ok
+[R] sugus
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = sugus
+[R]sono nel ciclo
+[R]semafori ok
+[R] tettett
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] radar
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = radar
+[R]sono nel ciclo
+[R]semafori ok
+[R] alula
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = alula
+[R]sono nel ciclo
+[R]semafori ok
+[R] noon
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = noon
+[R]sono nel ciclo
+[R]semafori ok
+[R] cic
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = cic
+[R]sono nel ciclo
+[R]semafori ok
+[R] elle
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = elle
+[R]sono nel ciclo
+[R]semafori ok
+[R] kayak
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = kayak
+[R]sono nel ciclo
+[R]semafori ok
+[R] ata
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = ata
+[R]sono nel ciclo
+[R]semafori ok
+[R] alla
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = alla
+[R]sono nel ciclo
+[R]semafori ok
+[R] eve
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = eve
+[R]sono nel ciclo
+[R]semafori ok
+[R] osso
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = osso
+[R]sono nel ciclo
+[R]semafori ok
+[R] ama
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = ama
+[R]sono nel ciclo
+[R]semafori ok
+[R] elle
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = elle
+[R]sono nel ciclo
+[R]semafori ok
+[R] ade
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] eccoci
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] bib
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = bib
+[R]sono nel ciclo
+[R]semafori ok
+[R] sassos
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] pop
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = pop
+[R]sono nel ciclo
+[R]semafori ok
+[R] circo
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] gig
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = gig
+[R]sono nel ciclo
+[R]semafori ok
+[R] osavo
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] omo
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = omo
+[R]sono nel ciclo
+[R]semafori ok
+[R] deified
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = deified
+[R]sono nel ciclo
+[R]semafori ok
+[R] tenet
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = tenet
+[R]sono nel ciclo
+[R]semafori ok
+[R] regger
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = regger
+[R]sono nel ciclo
+[R]semafori ok
+[R] rotolator
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] refer
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = refer
+[R]sono nel ciclo
+[R]semafori ok
+[R] ded
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+[P] Sveglio [W]
+[W]
+[W] La parola palindroma è = ded
+[R]sono nel ciclo
+[R]semafori ok
+[R] soliloquio
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] saponetta
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] neve
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] orologio
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] automobile
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] elettrico
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] grattacielo
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] sala
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] processo
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] dentale
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] rapida
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] orco
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] farfalla
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] tavolo
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] geniale
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] avviso
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] pericolo
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] ammiratore
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] digitale
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] insegnante
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] pittoresco
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] lettore
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] colibrì
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] sapore
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] centinaio
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] agguerrito
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] aeroplano
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] dentista
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] ippopotamo
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] sintesi
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] avventura
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] coraggio
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] oceano
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] gallina
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] energia
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] profondità
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] metro
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] caduta
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] bicicletta
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] gigante
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] equatore
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] grigio
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] libro
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] serpente
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] altopiano
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] barattolo
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] bambola
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] apertura
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[R] stella
+[R] Sveglio [P]
+[P] Controllo se la parola è palindroma
+La parola non è palindroma
+[R]sono nel ciclo
+[R]semafori ok
+[P] Controllo se la parola è palindroma
+La parola non è palindroma

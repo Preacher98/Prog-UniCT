@@ -1,0 +1,40 @@
+
+    il programma prende in input 3 parametri
+    - 1 numero giocatori (int)
+    - 2 numero partite (int)
+    - 3 file con le frasi (.txt)
+
+    ad ogni partita si inizia con una frase differente, scelte casualmente facendo attenzione ad avere per ogni partita una frase non scelta prima
+    Carico tutte le frasi in una matrice dinamica e le tengo in memoria.
+    Il numero delle frasi deve essere superiore al numero di partite -> fare un controllo con un if
+    ricordarsi sempre il carattere terminatore nelle stringhe 
+    utilizzare strcspn per poter eliminare il carattere di newline e le funzioni della libreria string in modo generico piuttosto che forzare l'eleminazione del new line.
+    SHUFFLE ? ovvero cambiare l'ordine degli indici nell'array
+
+    void shuffle(int *v, int size){
+        for(int i=0, ;i < size; i++)
+        {
+            int j = rand()%size;
+            int temp = v[j];
+            v[j] = v[i];
+            v[i] = temp;
+            scambiamo gli indici dell'array
+        }
+    }
+Per gestire le lettere già uscite nella partita
+Utilizzare un array oppure una bitmask sfruttando un int sapendo che un int è 32 bit (4 byte)
+A B C D E 
+0 1 0 1 1 
+0 0 1 0 0  OR 
+0 1 1 1 1  
+
+creare n_giocatori di thread
+creare 2 strutture dati:
+ 1) Tabellone con tutte le variabili condivise
+ 2) Struct privata per i thread con un Tabellone
+
+ come sincronizzare il main con gli altri thread ?
+ creiamo degli autodeadlock nei thread, successivamente facciamo in modo che si svegliano
+ 1 mutex per ogni thread in modo tale da poterli bloccare.
+
+ utilizzare la strchr per cercare eventuali spazi da completare nella frase attualmente in gioco

@@ -5,7 +5,10 @@
 #include<unistd.h>
 #include<fcntl.h>
 #include<ctype.h>
-
+//Questo è stato il primo tentativo, sono reduce dall'esperienza. Cose capite:
+// 1) Capire cosa i thread condividono e cosa invece hanno di privato
+// 2) snellire il main, utilizzare funzioni e capire cosa passare ad esse e cosa invece no
+// 3) Niente variabili globali, già non lo facevo però è giusto ricordarlo
 typedef struct file
 {
     char file_key[100];
