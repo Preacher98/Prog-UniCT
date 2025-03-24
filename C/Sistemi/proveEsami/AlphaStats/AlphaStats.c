@@ -21,6 +21,7 @@ void *thread_function_al(void *args){
 
 void *thread_function_mz(void *args){
     thread_shared *t_s = (thread_shared *)args;
+    
 }
 
 int main(int argc, char **argv){

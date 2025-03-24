@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayListProva",
+      "request": "launch",
+      "mainClass": "Java.ArrayList.ArrayListProva",
+      "projectName": "Prog_52c61a8c"
+    },
+    {
+      "type": "java",
+      "name": "primaClasse",
+      "request": "launch",
+      "mainClass": "AnotherJava.Iniziamo.primaClasse",
+      "projectName": "Prog_52c61a8c"
+    },
+    {
+      "type": "java",
+      "name": "MyFirstClass",
+      "request": "launch",
+      "mainClass": "Java.FirstTry.MyFirstClass",
+      "projectName": "Prog_52c61a8c"
+    },
+    {
+      "type": "java",
       "name": "HelloWorld",
       "request": "launch",
       "mainClass": "Java.HelloWorld",
